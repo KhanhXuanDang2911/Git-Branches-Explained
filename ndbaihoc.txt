@@ -1,0 +1,4 @@
+git branch -a hoặc --all: kiểm tra các nhánh hiện có của máy chủ github lẫn máy chủ vật lí
+git branch: kiểm tra các nhánh hiện có của máy vật lí
+git branch -c + name_repository: tạo 1 nhánh có tên name_repository trên máy chủ lẫn máy vật lí
+git checkout + congviec1: chuyển sang nhánh congviec1
