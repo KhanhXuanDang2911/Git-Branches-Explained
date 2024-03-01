@@ -5,3 +5,4 @@ git checkout + congviec1: chuyển sang nhánh congviec1
 git checkout -b congviec2: tạo nhành congviec2 rồi chuyển sang nhánh đó luôn
 git branch -d congviec1: xóa nhánh congviec1 (lưu ý kh được đứng tại nhánh đó xóa)
 git branch -D congviec1: ép xóa dù cho nhánh congviec1 mới commit chưa push code lên
+git push -d origin congviec1: xóa nhánh congviec1 trên web
